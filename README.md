@@ -5,7 +5,8 @@ MyPokeParty is an app that allows a user to submit their ideal party of 6 out of
 The steps of using our application are:
 * Fork this repo https://github.com/liamH47/MyPokeParty
 * Run bundle install
-* Rails s
+* Run rails db:migrate
+* Run rails s
 * Open your local server on your browser
 * Click on Log in if you are a returning user, or sign up if you are a new user. If you don’t have an account and don’t want to make one, feel free to skip this step.
 * If you sign up or log in, you will be directed to your profile. If you do not have a party, you will see a button that allows you to catch Pokemon. If you do have a party, you will see options to either update your party or release all of your Pokemon.
